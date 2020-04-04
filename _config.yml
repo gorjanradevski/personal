@@ -35,6 +35,7 @@ url: "https://gorjanradevski.github.io" # the base hostname & protocol for your 
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
 #baseurl: "/myblog" # the subpath of your site, e.g. "/blog".
+# https://forums.fast.ai/t/fastpages-replacing-main-username-github-io-page-w-fastpages/64316/2
 baseurl: ""
 
 # Github and twitter are optional:
