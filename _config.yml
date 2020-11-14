@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Gorjan's blog
-description: Welcome to my personal website and blog. I will mainly use the blog to organize my learning notes.
+title: Gorjan's personal website
+description: Welcome to my personal website.
 github_username: gorjanradevski
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "myblog"
@@ -42,12 +42,17 @@ minima:
   social_links:
     twitter: gorjanradevski
     github: gorjanradevski
+    linkedin: gorjan-radevski
+    stackoverflow: "3987085"
+    google-scholar: GKJnjkgAAAAJ
+
+
 
 # Set this to true to get LaTeX math equation support
 use_math: 
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
