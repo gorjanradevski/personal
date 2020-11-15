@@ -8,11 +8,11 @@ permalink: /publications/
 
 ## Journals and conference proceedings
 <br>
-**Gorjan Radevski**, Guillem Collel, Marie-Francine Moens, Tinne Tuytelaars. _**Findings of EMNLP 2020**_. [Decoding language spatial relations to 2D spatial arrangements](https://www.aclweb.org/anthology/2020.findings-emnlp.408/). [[Code](https://github.com/gorjanradevski/sr-bert)]
+**Gorjan Radevski**, Guillem Collel, Marie-Francine Moens, Tinne Tuytelaars. _**Findings of EMNLP 2020**_. [Decoding language spatial relations to 2D spatial arrangements](https://www.aclweb.org/anthology/2020.findings-emnlp.408/). [[Code](https://github.com/gorjanradevski/sr-bert)], [[BibTex](https://www.aclweb.org/anthology/2020.findings-emnlp.408.bib)].
 
 ----
 <br>
-Dusan Grujicic<sup><b>*</b></sup>, **Gorjan Radevski<sup><b>*</b></sup>**, Tinne Tuytelaars, Matthew Blashko. _**CoNLL 2020**_. [Learning to ground medical text in a 3D human atlas](https://www.aclweb.org/anthology/2020.conll-1.23/). [[Code](https://github.com/gorjanradevski/text2atlas)]
+Dusan Grujicic<sup><b>*</b></sup>, **Gorjan Radevski<sup><b>*</b></sup>**, Tinne Tuytelaars, Matthew Blashko. _**CoNLL 2020**_. [Learning to ground medical text in a 3D human atlas](https://www.aclweb.org/anthology/2020.conll-1.23/). [[Code](https://github.com/gorjanradevski/text2atlas)], [[BibTex](https://www.aclweb.org/anthology/2020.conll-1.23.bib)].
 
 ><sup>*</sup> Equal contribution
 
@@ -30,6 +30,6 @@ Slobodan Kalajdziski, **Gorjan Radevski**, Ilinka Ivanoska, Kire Trivodaliev, Bi
 
 ## Abstracts
 <br>
-Dusan Grujicic<sup><b>*</b></sup>, **Gorjan Radevski<sup><b>*</b></sup>**, Tinne Tuytelaars, Matthew Blashko. _**Workshop on NLP for COVID-19 at ACL 2020**_. [Self-supervised context-aware COVID-19 document exploration through atlas grounding](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.5/). [[Code](https://github.com/gorjanradevski/macchina)].
+Dusan Grujicic<sup><b>*</b></sup>, **Gorjan Radevski<sup><b>*</b></sup>**, Tinne Tuytelaars, Matthew Blashko. _**Workshop on NLP for COVID-19 at ACL 2020**_. [Self-supervised context-aware COVID-19 document exploration through atlas grounding](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.5/). [[Code](https://github.com/gorjanradevski/macchina)], [[BibTex](https://www.aclweb.org/anthology/2020.nlpcovid19-acl.5.bib)].
 
 ><sup>*</sup> Equal contribution
